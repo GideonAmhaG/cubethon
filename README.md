@@ -4,7 +4,7 @@ Cubethon is an exhilarating 3D platformer and racing game where players take on 
 
 # Installation
 
-Use the setup executable file (Cubethon Setup (x86).exe)
+Install the game using the setup executable file (Cubethon Setup (x86).exe).
 
 ## Authors
 
